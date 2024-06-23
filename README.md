@@ -4,5 +4,6 @@
 #          2. python3
 # How to use 
 #              Install 
-                  sudo apt install macchanger
-       sudo python3 new_mac_add.py
+        sudo apt install macchanger
+#
+        sudo python3 new_mac_add.py

@@ -1,5 +1,5 @@
 # It is a Python Program to change your MAC Address on Linux based system Like :- Kali, Parrot ...
-# It will change ethernat network mac address change
+# It will change mac address in ethernet on your system
 # Requirement :- 
 #          1. macchanger
 #          2. python3
